@@ -28,3 +28,6 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 
 
 [perro]:perro.jpg
+
+
+|edad | pequeño| mediano | grande
