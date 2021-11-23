@@ -22,4 +22,9 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 
 # El perro mas bonito del mundo
 ![alt][perro]
-![perro]:(perro.jpg)
+
+
+
+
+
+[perro]:(perro.jpg)
