@@ -37,6 +37,8 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 | 15        | 76         |    86   |      93        |
 
 
+# Calendario de vacunación de tu perro
+
 [x] de 6 a 8 semanas
 
 [] de 8 a 10 semanas
