@@ -1,3 +1,3 @@
 # Pagina web sobre mascotas
-##Introducción
+## Introducción
 Nuestra página web muestra información sobre los tipos **razas de perros** existentes.
