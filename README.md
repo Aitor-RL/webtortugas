@@ -36,3 +36,9 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 |  10       | 56         |   60    |      66        |
 | 15        | 76         |    86   |      93        |
 
+
+[x] de 6 a 8 semanas
+[] de 8 a 10 semanas
+[x] de 12 a 14 semanas
+[x] de 14 a 16 semanas
+[x] de 14 a 1 
