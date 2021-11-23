@@ -27,4 +27,4 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 
 
 
-[perro]:(perro.jpg)
+[perro]:perro.jpg
