@@ -7,3 +7,9 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 - Pomerania
 - Pequines
 - Doberman 
+
+# Cuidados Principales
+1. Alimento
+2. Cariño
+3. Aseo
+4. Paseos
