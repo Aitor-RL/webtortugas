@@ -1,3 +1,3 @@
 # Pagina web sobre mascotas
 ## Introducción
-Nuestra página web muestra información sobre los tipos **razas de perros** existentes.
+Nuestra página __web__ muestra información sobre los tipos **razas de perros** existentes.
