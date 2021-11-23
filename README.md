@@ -30,4 +30,9 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 [perro]:perro.jpg
 
 
-|edad | pequeño| mediano | grande
+| Izquierda | Centro    | Derecha   |
+| --------- |:---------:| --------: |
+| angel     | a         | $160      |
+| pepe      | b         |   $172    |
+| bea        | c         |    $122   |
+
