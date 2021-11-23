@@ -25,9 +25,9 @@ Nuestra página *web* muestra información sobre los tipos **razas de perros** e
 
 
 
+![alt][banner]
 
 
-[perro]:perro.jpg
 
 
 | edad | pequeño    |     mediano   |     grande   |
@@ -68,4 +68,6 @@ class Ladra{
 <img  width="40" src="perro.jpg">
 
 
+[perro]:perro.jpg
+[banner]:banner.svg
 
